@@ -7,3 +7,4 @@ def hal
 end
 
 puts hal
+greeting(name)
